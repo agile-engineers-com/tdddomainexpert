@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.agileengineers.com.blog.tdddomainexpert.importer.JiraImporterTest_No03" tests="3" skipped="0" failures="0" errors="0" timestamp="2014-11-28T10:34:36" hostname="conindeedx.local" time="0.009">
-  <properties/>
-  <testcase name="should_associate_issue_with_assigned_targetVersion" classname="com.agileengineers.com.blog.tdddomainexpert.importer.JiraImporterTest_No03" time="0.006"/>
-  <testcase name="should_import_title_of_issue" classname="com.agileengineers.com.blog.tdddomainexpert.importer.JiraImporterTest_No03" time="0.001"/>
-  <testcase name="should_import_all_3_issues_from_jira_and_store_them_in_repository" classname="com.agileengineers.com.blog.tdddomainexpert.importer.JiraImporterTest_No03" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
